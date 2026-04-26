@@ -1,0 +1,378 @@
+[
+  {
+    "chapter": 1,
+    "verse": 1,
+    "sanskrit": "धृतराष्ट्र उवाच | धर्मक्षेत्रे कुरुक्षेत्रे समवेता युयुत्सवः | मामकाः पाण्डवाश्चैव किमकुर्वत सञ्जय ||",
+    "hindi": "धृतराष्ट्र ने पूछा — हे संजय! धर्मभूमि कुरुक्षेत्र में एकत्रित मेरे और पाण्डु के पुत्रों ने क्या किया?",
+    "english": "Dhritarashtra said: O Sanjay, what did my sons and the sons of Pandu do when they assembled on the holy field of Kurukshetra, eager to fight?",
+    "insight": "Every moral crisis begins with a question — what are the righteous and the unrighteous forces doing within me?"
+  },
+  {
+    "chapter": 1,
+    "verse": 2,
+    "sanskrit": "सञ्जय उवाच | दृष्ट्वा तु पाण्डवानीकं व्यूढं दुर्योधनस्तदा | आचार्यमुपसङ्गम्य राजा वचनमब्रवीत् ||",
+    "hindi": "संजय बोले — पाण्डव सेना की व्यूह रचना देखकर राजा दुर्योधन आचार्य द्रोण के पास गया और बोला।",
+    "english": "Sanjay said: On seeing the Pandava army in battle formation, King Duryodhana approached his teacher Dronacharya and spoke these words.",
+    "insight": "Pride before a battle often masks fear — Duryodhana seeks reassurance, not wisdom."
+  },
+  {
+    "chapter": 1,
+    "verse": 3,
+    "sanskrit": "पश्यैतां पाण्डुपुत्राणामाचार्य महतीं चमूम् | व्यूढां द्रुपदपुत्रेण तव शिष्येण धीमता ||",
+    "hindi": "हे आचार्य! पाण्डु-पुत्रों की इस विशाल सेना को देखिए, जिसे आपके बुद्धिमान शिष्य द्रुपद-पुत्र ने व्यूहबद्ध किया है।",
+    "english": "O Teacher, behold this great army of the sons of Pandu, arrayed by your talented disciple, the son of Drupada.",
+    "insight": "A student's strength is a tribute to the teacher — even enemies acknowledge each other's abilities on the battlefield."
+  },
+  {
+    "chapter": 1,
+    "verse": 4,
+    "sanskrit": "अत्र शूरा महेष्वासा भीमार्जुनसमा युधि | युयुधानो विराटश्च द्रुपदश्च महारथः ||",
+    "hindi": "इस सेना में महान धनुर्धारी हैं — भीम और अर्जुन के समान युद्ध करने वाले, युयुधान, विराट और महारथी द्रुपद।",
+    "english": "Here are great archers equal in battle to Bhima and Arjuna — Yuyudhana, Virata, and the great chariot-warrior Drupada.",
+    "insight": "Respect your adversary's strength — underestimating an opponent is the first step toward defeat."
+  },
+  {
+    "chapter": 1,
+    "verse": 5,
+    "sanskrit": "धृष्टकेतुश्चेकितानः काशिराजश्च वीर्यवान् | पुरुजित्कुन्तिभोजश्च शैब्यश्च नरपुङ्गवः ||",
+    "hindi": "धृष्टकेतु, चेकितान, पराक्रमी काशिराज, पुरुजित, कुन्तिभोज और मनुष्यों में श्रेष्ठ शैब्य भी हैं।",
+    "english": "Also Dhrishtaketu, Chekitana, the valiant King of Kashi, Purujit, Kuntibhoja, and Shaibya, the best of men.",
+    "insight": "Every great battle is fought by named individuals with unique stories — history is always personal before it is collective."
+  },
+  {
+    "chapter": 1,
+    "verse": 6,
+    "sanskrit": "युधामन्युश्च विक्रान्त उत्तमौजाश्च वीर्यवान् | सौभद्रो द्रौपदेयाश्च सर्व एव महारथाः ||",
+    "hindi": "पराक्रमी युधामन्यु, बलवान उत्तमौजा, सुभद्रापुत्र और द्रौपदी के पुत्र — ये सभी महारथी हैं।",
+    "english": "The valiant Yudhamanyu, the powerful Uttamaujas, the son of Subhadra, and the sons of Draupadi — all are great warriors.",
+    "insight": "Every warrior has a lineage — knowing who you come from shapes how you fight and what you fight for."
+  },
+  {
+    "chapter": 1,
+    "verse": 7,
+    "sanskrit": "अस्माकं तु विशिष्टा ये तान्निबोध द्विजोत्तम | नायका मम सैन्यस्य संज्ञार्थं तान्ब्रवीमि ते ||",
+    "hindi": "हे द्विजोत्तम! हमारी तरफ के भी विशिष्ट योद्धाओं को जानिए — मैं अपनी सेना के नायकों को आपको बताता हूँ।",
+    "english": "O best of Brahmins, know also the distinguished commanders on our side. For your information, let me name the generals of my army.",
+    "insight": "A leader must know their own people as well as they know the enemy — self-knowledge is strategic wisdom."
+  },
+  {
+    "chapter": 1,
+    "verse": 8,
+    "sanskrit": "भवान्भीष्मश्च कर्णश्च कृपश्च समितिञ्जयः | अश्वत्थामा विकर्णश्च सौमदत्तिस्तथैव च ||",
+    "hindi": "आप (द्रोण), भीष्म, कर्ण, संग्राम-विजयी कृप, अश्वत्थामा, विकर्ण और सोमदत्त के पुत्र।",
+    "english": "Yourself (Drona), Bhishma, Karna, and Kripa the ever-victorious in battle; Ashwatthama, Vikarna, and also the son of Somadatta.",
+    "insight": "Greatness surrounds you — those beside you in battle define the moral weight of the cause you serve."
+  },
+  {
+    "chapter": 1,
+    "verse": 9,
+    "sanskrit": "अन्ये च बहवः शूरा मदर्थे त्यक्तजीविताः | नानाशस्त्रप्रहरणाः सर्वे युद्धविशारदाः ||",
+    "hindi": "और भी अनेक शूर-वीर हैं जो मेरे लिए अपने प्राण न्योछावर करने को तैयार हैं — विभिन्न अस्त्र-शस्त्रों से सज्जित और युद्ध-कुशल।",
+    "english": "And many other brave warriors are ready to sacrifice their lives for my sake, armed with various weapons and all skilled in warfare.",
+    "insight": "Loyalty earned through respect is worth more than loyalty bought through fear."
+  },
+  {
+    "chapter": 1,
+    "verse": 10,
+    "sanskrit": "अपर्याप्तं तदस्माकं बलं भीष्माभिरक्षितम् | पर्याप्तं त्विदमेतेषां बलं भीमाभिरक्षितम् ||",
+    "hindi": "भीष्म द्वारा रक्षित हमारी सेना अपर्याप्त है, जबकि भीम द्वारा रक्षित उनकी सेना पर्याप्त है।",
+    "english": "Our army protected by Bhishma is insufficient, while their army protected by Bhima is sufficient.",
+    "insight": "Duryodhana's doubt reveals that external strength means nothing when inner confidence is absent."
+  },
+  {
+    "chapter": 1,
+    "verse": 11,
+    "sanskrit": "अयनेषु च सर्वेषु यथाभागमवस्थिताः | भीष्ममेवाभिरक्षन्तु भवन्तः सर्व एव हि ||",
+    "hindi": "इसलिए सभी अपने-अपने स्थान पर खड़े होकर सब मिलकर भीष्म की रक्षा करें।",
+    "english": "Therefore, all of you stationed at your respective positions must all protect Bhishma alone.",
+    "insight": "True leadership requires protecting wisdom — Bhishma represents the last moral anchor on the wrong side."
+  },
+  {
+    "chapter": 1,
+    "verse": 12,
+    "sanskrit": "तस्य सञ्जनयन्हर्षं कुरुवृद्धः पितामहः | सिंहनादं विनद्योच्चैः शङ्खं दध्मौ प्रतापवान् ||",
+    "hindi": "कुरुकुल के वृद्ध, प्रतापी पितामह भीष्म ने दुर्योधन को प्रसन्न करने के लिए सिंह के समान गर्जना करते हुए शंख बजाया।",
+    "english": "Then the glorious grandsire of the Kurus, the oldest member, Bhishma, blew his conch loudly like a lion's roar, bringing joy to Duryodhana.",
+    "insight": "Even the greatest elder can be swept into a wrong cause by loyalty — wisdom must be paired with moral courage."
+  },
+  {
+    "chapter": 1,
+    "verse": 13,
+    "sanskrit": "ततः शङ्खाश्च भेर्यश्च पणवानकगोमुखाः | सहसैवाभ्यहन्यन्त स तु शब्दस्तुमुलोऽभवत् ||",
+    "hindi": "तब एक साथ शंख, नगाड़े, ढोल, मृदंग और तुरही बज उठे — वह शब्द अत्यंत कोलाहलपूर्ण हो गया।",
+    "english": "Then suddenly, conches, kettledrums, tabors, trumpets, and cow-horns blared forth together. That sound became tumultuous.",
+    "insight": "War announces itself with noise and ceremony — underneath the pageantry, silence would be more honest."
+  },
+  {
+    "chapter": 1,
+    "verse": 14,
+    "sanskrit": "ततः श्वेतैर्हयैर्युक्ते महति स्यन्दने स्थितौ | माधवः पाण्डवश्चैव दिव्यौ शङ्खौ प्रदध्मतुः ||",
+    "hindi": "तब सफेद घोड़ों से जुड़े महान रथ पर सवार माधव (कृष्ण) और पाण्डव (अर्जुन) ने अपने-अपने दिव्य शंख बजाए।",
+    "english": "Then, from the great chariot yoked with white horses, Madhava (Krishna) and Pandava (Arjuna) blew their divine conches.",
+    "insight": "Divinity enters the battlefield not to destroy but to guide — Krishna's conch signals divine wisdom, not war."
+  },
+  {
+    "chapter": 1,
+    "verse": 15,
+    "sanskrit": "पाञ्चजन्यं हृषीकेशो देवदत्तं धनञ्जयः | पौण्ड्रं दध्मौ महाशङ्खं भीमकर्मा वृकोदरः ||",
+    "hindi": "हृषीकेश (कृष्ण) ने पाञ्चजन्य, धनंजय (अर्जुन) ने देवदत्त और भयंकर कर्म करने वाले भीम ने पौण्ड्र शंख बजाया।",
+    "english": "Hrishikesha (Krishna) blew the Panchajanya, Dhananjaya the Devadatta, and Bhima of terrible deeds blew the great conch Paundra.",
+    "insight": "Each warrior has their own voice — find yours and blow it with full strength before the battle begins."
+  },
+  {
+    "chapter": 1,
+    "verse": 16,
+    "sanskrit": "अनन्तविजयं राजा कुन्तीपुत्रो युधिष्ठिरः | नकुलः सहदेवश्च सुघोषमणिपुष्पकौ ||",
+    "hindi": "कुन्ती-पुत्र राजा युधिष्ठिर ने अनन्तविजय और नकुल व सहदेव ने सुघोष और मणिपुष्पक शंख बजाए।",
+    "english": "King Yudhishthira, the son of Kunti, blew the Anantavijaya, and Nakula and Sahadeva blew their conches Sughosha and Manipushpaka.",
+    "insight": "Every member of a righteous team has a distinct role — unity does not mean uniformity."
+  },
+  {
+    "chapter": 1,
+    "verse": 17,
+    "sanskrit": "काश्यश्च परमेष्वासः शिखण्डी च महारथः | धृष्टद्युम्नो विराटश्च सात्यकिश्चापराजितः ||",
+    "hindi": "श्रेष्ठ धनुर्धारी काशिराज, महारथी शिखंडी, धृष्टद्युम्न, विराट और अजेय सात्यकि।",
+    "english": "The King of Kashi, foremost among archers, the great chariot-warrior Shikhandi, Dhrishtadyumna, Virata, and the undefeated Satyaki.",
+    "insight": "An army of principle is powerful — every righteous warrior adds to the moral weight of the cause."
+  },
+  {
+    "chapter": 1,
+    "verse": 18,
+    "sanskrit": "द्रुपदो द्रौपदेयाश्च सर्वशः पृथिवीपते | सौभद्रश्च महाबाहुः शङ्खान्दध्मुः पृथक्पृथक् ||",
+    "hindi": "हे पृथ्वीपति! द्रुपद, द्रौपदी के पुत्र और महाबाहु सुभद्रापुत्र सभी ने अलग-अलग शंख बजाए।",
+    "english": "O lord of the earth, Drupada, the sons of Draupadi, and the mighty-armed son of Subhadra all blew their conches separately.",
+    "insight": "Each voice in a righteous chorus matters — no contribution to truth is too small."
+  },
+  {
+    "chapter": 1,
+    "verse": 19,
+    "sanskrit": "स घोषो धार्तराष्ट्राणां हृदयानि व्यदारयत् | नभश्च पृथिवीं चैव तुमुलो व्यनुनादयन् ||",
+    "hindi": "उस शब्द ने धृतराष्ट्र के पुत्रों के हृदय विदीर्ण कर दिए और आकाश तथा पृथ्वी को गुंजा दिया।",
+    "english": "That tumultuous sound pierced the hearts of Dhritarashtra's sons, reverberating through the sky and the earth.",
+    "insight": "Truth, when spoken with full force, shakes even the most hardened heart — sound is the first weapon of the righteous."
+  },
+  {
+    "chapter": 1,
+    "verse": 20,
+    "sanskrit": "अथ व्यवस्थितान्दृष्ट्वा धार्तराष्ट्रान् कपिध्वजः | प्रवृत्ते शस्त्रसम्पाते धनुरुद्यम्य पाण्डवः ||",
+    "hindi": "तब कपिध्वज अर्जुन ने, जब शस्त्र चलने लगे, धृतराष्ट्र के पुत्रों को व्यवस्थित देखकर धनुष उठाया।",
+    "english": "Then Arjuna, son of Pandu, whose flag bore the image of Hanuman, took up his bow as the weapons were about to be discharged, and saw Dhritarashtra's sons standing arrayed.",
+    "insight": "Before acting, the wise pause to observe — action without observation is reaction, not response."
+  },
+  {
+    "chapter": 1,
+    "verse": 21,
+    "sanskrit": "हृषीकेशं तदा वाक्यमिदमाह महीपते | अर्जुन उवाच सेनयोरुभयोर्मध्ये रथं स्थापय मेऽच्युत ||",
+    "hindi": "हे राजन! अर्जुन ने हृषीकेश से कहा — हे अच्युत! मेरा रथ दोनों सेनाओं के मध्य में खड़ा कीजिए।",
+    "english": "O King, Arjuna then spoke to Hrishikesha: O Achyuta, please place my chariot between the two armies.",
+    "insight": "Before any major decision, position yourself where you can see all sides — clarity requires perspective."
+  },
+  {
+    "chapter": 1,
+    "verse": 22,
+    "sanskrit": "यावदेतान्निरीक्षेऽहं योद्धुकामानवस्थितान् | कैर्मया सह योद्धव्यमस्मिन् रणसमुद्यमे ||",
+    "hindi": "जब तक मैं इन युद्ध की इच्छा रखने वाले खड़े लोगों को देख लूँ — इस युद्ध में मुझे किन-किन से लड़ना है।",
+    "english": "Let me see who has come here to fight, with whom I must contend in this great trial of arms.",
+    "insight": "Know your adversaries before engaging — wisdom lies in understanding before acting."
+  },
+  {
+    "chapter": 1,
+    "verse": 23,
+    "sanskrit": "योत्स्यमानानवेक्षेऽहं य एतेऽत्र समागताः | धार्तराष्ट्रस्य दुर्बुद्धेर्युद्धे प्रियचिकीर्षवः ||",
+    "hindi": "मैं उन लोगों को देखना चाहता हूँ जो दुर्बुद्धि दुर्योधन का युद्ध में प्रिय करने की इच्छा से यहाँ आए हैं।",
+    "english": "Let me see those who have come here to serve the evil-minded Duryodhana by joining him in battle.",
+    "insight": "Examining whose cause you serve is the most important question before taking any side."
+  },
+  {
+    "chapter": 1,
+    "verse": 24,
+    "sanskrit": "सञ्जय उवाच | एवमुक्तो हृषीकेशो गुडाकेशेन भारत | सेनयोरुभयोर्मध्ये स्थापयित्वा रथोत्तमम् ||",
+    "hindi": "संजय बोले — हे भारत! गुडाकेश (अर्जुन) के इस प्रकार कहने पर हृषीकेश ने दोनों सेनाओं के बीच में श्रेष्ठ रथ खड़ा किया।",
+    "english": "Sanjay said: O Bharata, thus addressed by Gudakesha (Arjuna), Hrishikesha placed the finest chariot between the two armies.",
+    "insight": "A true guide takes you exactly where you ask — even when the destination reveals painful truths."
+  },
+  {
+    "chapter": 1,
+    "verse": 25,
+    "sanskrit": "भीष्मद्रोणप्रमुखतः सर्वेषां च महीक्षिताम् | उवाच पार्थ पश्यैतान्समवेतान्कुरूनिति ||",
+    "hindi": "भीष्म और द्रोण के सामने तथा सभी राजाओं के सामने कृष्ण ने कहा — हे पार्थ! इन एकत्रित कुरुओं को देखो।",
+    "english": "In front of Bhishma, Drona, and all the kings, Krishna said: O Partha, behold all the Kurus assembled here.",
+    "insight": "Sometimes the most compassionate act is simply showing you the truth, unfiltered — then letting you decide."
+  },
+  {
+    "chapter": 1,
+    "verse": 26,
+    "sanskrit": "तत्रापश्यत्स्थितान्पार्थः पितॄनथ पितामहान् | आचार्यान्मातुलान्भ्रातॄन्पुत्रान्पौत्रान्सखींस्तथा ||",
+    "hindi": "वहाँ पार्थ ने पिता, पितामह, आचार्य, मामा, भाई, पुत्र, पौत्र, मित्र — इन सबको खड़ा देखा।",
+    "english": "There Partha saw standing in the ranks fathers, grandfathers, teachers, maternal uncles, brothers, sons, grandsons, and friends as well.",
+    "insight": "Every war is ultimately a civil war — the people on the other side were once your own people."
+  },
+  {
+    "chapter": 1,
+    "verse": 27,
+    "sanskrit": "श्वशुरान्सुहृदश्चैव सेनयोरुभयोरपि | तान्समीक्ष्य स कौन्तेयः सर्वान्बन्धूनवस्थितान् ||",
+    "hindi": "दोनों सेनाओं में ससुर और सुहृदों को भी देखा — उन सब बंधुओं को इस प्रकार खड़ा देखकर।",
+    "english": "Also father-in-law and well-wishers in both armies. The son of Kunti, seeing all these kinsmen thus standing arranged.",
+    "insight": "The hardest battles are those where love stands on both sides — attachment is the root of all moral confusion."
+  },
+  {
+    "chapter": 1,
+    "verse": 28,
+    "sanskrit": "कृपया परयाविष्टो विषीदन्निदमब्रवीत् | अर्जुन उवाच दृष्ट्वेमं स्वजनं कृष्ण युयुत्सुं समुपस्थितम् ||",
+    "hindi": "अत्यंत करुणा से व्याप्त और दुःखी होकर अर्जुन बोले — हे कृष्ण! युद्ध की इच्छा रखने वाले इन स्वजनों को देखकर।",
+    "english": "Was overcome with great compassion and spoke in grief: O Krishna, seeing my own people standing here eager to fight.",
+    "insight": "When duty clashes with attachment, even the bravest warrior's resolve crumbles — this is the beginning of wisdom."
+  },
+  {
+    "chapter": 1,
+    "verse": 29,
+    "sanskrit": "सीदन्ति मम गात्राणि मुखं च परिशुष्यति | वेपथुश्च शरीरे मे रोमहर्षश्च जायते ||",
+    "hindi": "मेरे अंग शिथिल हो रहे हैं, मुख सूख रहा है, शरीर में कम्पन और रोमांच हो रहा है।",
+    "english": "My limbs fail and my mouth is parched, my body quivers, and my hair stands on end.",
+    "insight": "The body speaks truth before the mind admits it — Arjuna's symptoms are the physical language of moral conflict."
+  },
+  {
+    "chapter": 1,
+    "verse": 30,
+    "sanskrit": "गाण्डीवं स्रंसते हस्तात्त्वक्चैव परिदह्यते | न च शक्नोम्यवस्थातुं भ्रमतीव च मे मनः ||",
+    "hindi": "गाण्डीव धनुष हाथ से गिर रहा है, त्वचा जल रही है, मैं खड़ा नहीं रह पा रहा और मन चक्कर खा रहा है।",
+    "english": "My bow slips from my hand, my skin burns, I am unable to stand, and my mind seems to whirl.",
+    "insight": "Purpose collapses when the heart is not behind the action — without inner alignment, even the greatest warrior falls."
+  },
+  {
+    "chapter": 1,
+    "verse": 31,
+    "sanskrit": "निमित्तानि च पश्यामि विपरीतानि केशव | न च श्रेयोऽनुपश्यामि हत्वा स्वजनमाहवे ||",
+    "hindi": "हे केशव! मैं विपरीत शकुन देख रहा हूँ और स्वजनों को मारकर मुझे कोई कल्याण नहीं दिखता।",
+    "english": "O Keshava, I see only omens of misfortune. I see no good in killing my own kinsmen in battle.",
+    "insight": "Sometimes refusing to fight is not cowardice but the deepest wisdom — know what you are truly fighting for."
+  },
+  {
+    "chapter": 1,
+    "verse": 32,
+    "sanskrit": "न काङ्क्षे विजयं कृष्ण न च राज्यं सुखानि च | किं नो राज्येन गोविन्द किं भोगैर्जीवितेन वा ||",
+    "hindi": "हे कृष्ण! मुझे न विजय की इच्छा है, न राज्य की, न सुखों की। हे गोविन्द! हमें राज्य से क्या प्रयोजन?",
+    "english": "O Krishna, I do not wish for victory, nor a kingdom, nor pleasures. O Govinda, what use is a kingdom, or enjoyment, or even life itself?",
+    "insight": "True grief strips away all ambition — in this moment Arjuna is more honest than all who fight for kingdoms."
+  },
+  {
+    "chapter": 1,
+    "verse": 33,
+    "sanskrit": "येषामर्थे काङ्क्षितं नो राज्यं भोगाः सुखानि च | त इमेऽवस्थिता युद्धे प्राणांस्त्यक्त्वा धनानि च ||",
+    "hindi": "जिनके लिए हमें राज्य, भोग और सुख अभीष्ट हैं, वे ही ये लोग यहाँ युद्ध में प्राण और धन की आहुति देने के लिए खड़े हैं।",
+    "english": "Those very persons for whose sake we desire kingdom, enjoyment, and pleasure — they are standing here ready to give up their lives and wealth.",
+    "insight": "When your reason for living stands in front of you as your reason to kill, all ambition becomes hollow."
+  },
+  {
+    "chapter": 1,
+    "verse": 34,
+    "sanskrit": "आचार्याः पितरः पुत्रास्तथैव च पितामहाः | मातुलाः श्वशुराः पौत्राः श्यालाः सम्बन्धिनस्तथा ||",
+    "hindi": "गुरुजन, पिता, पुत्र, पितामह, मामा, ससुर, पौत्र, साले और अन्य संबंधी।",
+    "english": "Teachers, fathers, sons, and also grandfathers; maternal uncles, fathers-in-law, grandsons, brothers-in-law, and other relatives.",
+    "insight": "War renders every human label — father, son, teacher — meaningless; only loss remains."
+  },
+  {
+    "chapter": 1,
+    "verse": 35,
+    "sanskrit": "एतान्न हन्तुमिच्छामि घ्नतोऽपि मधुसूदन | अपि त्रैलोक्यराज्यस्य हेतोः किं नु महीकृते ||",
+    "hindi": "हे मधुसूदन! ये यदि मुझे मारें तो भी मैं इन्हें नहीं मारना चाहता — तीनों लोकों के राज्य के लिए भी नहीं, फिर पृथ्वी के लिए तो क्या।",
+    "english": "O Madhusudana, even if they should slay me, I do not wish to fight them — not even for dominion over the three worlds, let alone for this earth.",
+    "insight": "The greatest moral stand is sometimes to lay down your weapons — not from weakness, but from love."
+  },
+  {
+    "chapter": 1,
+    "verse": 36,
+    "sanskrit": "निहत्य धार्तराष्ट्रान्नः का प्रीतिः स्याज्जनार्दन | पापमेवाश्रयेदस्मान्हत्वैतानाततायिनः ||",
+    "hindi": "हे जनार्दन! धृतराष्ट्र के पुत्रों को मारने पर हमें क्या प्रसन्नता होगी? इन आततायियों को मारने से हमें पाप ही लगेगा।",
+    "english": "O Janardana, what pleasure shall we find in killing the sons of Dhritarashtra? Sin will overcome us if we slay these aggressors.",
+    "insight": "Victory without virtue is just organized violence — winning the wrong war creates more suffering than losing it."
+  },
+  {
+    "chapter": 1,
+    "verse": 37,
+    "sanskrit": "तस्मान्नार्हा वयं हन्तुं धार्तराष्ट्रान्स्वबान्धवान् | स्वजनं हि कथं हत्वा सुखिनः स्याम माधव ||",
+    "hindi": "इसलिए हे माधव! हम अपने बंधु धृतराष्ट्र के पुत्रों को मारने के योग्य नहीं हैं। अपने ही लोगों को मारकर हम सुखी कैसे रह सकते हैं?",
+    "english": "Therefore it is not proper for us to kill Dhritarashtra's sons, our own relatives. How can we be happy by killing our own kinsmen, O Madhava?",
+    "insight": "Happiness built on the grief of loved ones is no happiness at all — the cost of some victories is everything worth winning."
+  },
+  {
+    "chapter": 1,
+    "verse": 38,
+    "sanskrit": "यद्यप्येते न पश्यन्ति लोभोपहतचेतसः | कुलक्षयकृतं दोषं मित्रद्रोहे च पातकम् ||",
+    "hindi": "यदि ये लोभ से दूषित चित्त वाले कुल-नाश का दोष और मित्र-विरोध के पाप को नहीं देख रहे।",
+    "english": "Even if these men, blinded by greed, do not see the wrong in destroying their family or the sin of fighting against friends.",
+    "insight": "Even when others lose their moral compass, you are not freed from your own — righteousness is never relative."
+  },
+  {
+    "chapter": 1,
+    "verse": 39,
+    "sanskrit": "कथं न ज्ञेयमस्माभिः पापादस्मान्निवर्तितुम् | कुलक्षयकृतं दोषं प्रपश्यद्भिर्जनार्दन ||",
+    "hindi": "हे जनार्दन! कुल-नाश के दोष को स्पष्ट देखते हुए हम लोगों को इस पाप से निवृत्त होना क्यों नहीं चाहिए?",
+    "english": "Why should we not know enough to turn away from this sin, O Janardana, when we can see the wrong in the destruction of the family?",
+    "insight": "Seeing the wrong clearly is the first act of wisdom — then refusing to participate is the second."
+  },
+  {
+    "chapter": 1,
+    "verse": 40,
+    "sanskrit": "कुलक्षये प्रणश्यन्ति कुलधर्माः सनातनाः | धर्मे नष्टे कुलं कृत्स्नमधर्मोऽभिभवत्युत ||",
+    "hindi": "कुल के नाश होने से कुल की सनातन परंपराएँ नष्ट हो जाती हैं, धर्म के नष्ट होने पर अधर्म कुल को दबा लेता है।",
+    "english": "With the destruction of the family, the eternal family traditions are lost. When dharma is lost, adharma overwhelms the entire family.",
+    "insight": "Society is held together by invisible threads of tradition — break the family, and you unravel civilization itself."
+  },
+  {
+    "chapter": 1,
+    "verse": 41,
+    "sanskrit": "अधर्माभिभवात्कृष्ण प्रदुष्यन्ति कुलस्त्रियः | स्त्रीषु दुष्टासु वार्ष्णेय जायते वर्णसङ्करः ||",
+    "hindi": "हे कृष्ण! अधर्म के प्रभाव से कुल की स्त्रियाँ दूषित हो जाती हैं और हे वार्ष्णेय! स्त्रियों के दूषित होने पर वर्ण-संकर होता है।",
+    "english": "O Krishna, when adharma prevails, the women of the family become corrupted, and O Varsheya, from the corruption of women comes intermixture.",
+    "insight": "Social collapse always begins with the erosion of values in the home — culture is transmitted through family."
+  },
+  {
+    "chapter": 1,
+    "verse": 42,
+    "sanskrit": "सङ्करो नरकायैव कुलघ्नानां कुलस्य च | पतन्ति पितरो ह्येषां लुप्तपिण्डोदकक्रियाः ||",
+    "hindi": "वर्ण-संकर कुल-नाशियों और कुल को नरक में ले जाता है। पिण्ड और जल की क्रिया के लुप्त होने पर पितर भी नरक में पड़ते हैं।",
+    "english": "This intermixture brings both the destroyers of the family and the family itself to hell. The ancestors also fall, being deprived of offerings of food and water.",
+    "insight": "Every generation is responsible to its ancestors and descendants — we are not isolated, but links in a chain of duty."
+  },
+  {
+    "chapter": 1,
+    "verse": 43,
+    "sanskrit": "दोषैरेतैः कुलघ्नानां वर्णसङ्करकारकैः | उत्साद्यन्ते जातिधर्माः कुलधर्माश्च शाश्वताः ||",
+    "hindi": "इन कुलनाशियों के इन दोषों से, जो वर्ण-संकर उत्पन्न करते हैं, जाति-धर्म और सनातन कुल-धर्म नष्ट हो जाते हैं।",
+    "english": "By these misdeeds of those who destroy the family and cause confusion of duties, the eternal communal and family traditions are uprooted.",
+    "insight": "Ancient structures of meaning collapse faster than we build them — destruction is always easier than creation."
+  },
+  {
+    "chapter": 1,
+    "verse": 44,
+    "sanskrit": "उत्सन्नकुलधर्माणां मनुष्याणां जनार्दन | नरकेऽनियतं वासो भवतीत्यनुशुश्रुम ||",
+    "hindi": "हे जनार्दन! जिनके कुल-धर्म नष्ट हो गए हैं, ऐसे मनुष्यों का नरक में वास होता है — ऐसा हमने सुना है।",
+    "english": "O Janardana, we have heard that men whose family traditions are destroyed must dwell in hell for an indefinite period.",
+    "insight": "Those who betray their highest values for temporary gain find themselves lost in a world without meaning — that is the truest hell."
+  },
+  {
+    "chapter": 1,
+    "verse": 45,
+    "sanskrit": "अहो बत महत्पापं कर्तुं व्यवसिता वयम् | यद्राज्यसुखलोभेन हन्तुं स्वजनमुद्यताः ||",
+    "hindi": "अहो! हम बड़ा पाप करने को तैयार हो रहे हैं कि राज्य-सुख के लोभ से अपने ही स्वजनों को मारने के लिए उद्यत हैं।",
+    "english": "Alas, how strange it is that we have set out to perform this great sin! Driven by the desire for royal pleasures, we are ready to slay our own kinsmen.",
+    "insight": "The moment of recognition — seeing the gap between who you are and what you are about to do — is the birth of conscience."
+  },
+  {
+    "chapter": 1,
+    "verse": 46,
+    "sanskrit": "यदि मामप्रतीकारमशस्त्रं शस्त्रपाणयः | धार्तराष्ट्रा रणे हन्युस्तन्मे क्षेमतरं भवेत् ||",
+    "hindi": "यदि अस्त्र-शस्त्र हाथ में लिए हुए धृतराष्ट्र के पुत्र युद्ध में मेरा प्रतिकार न करने वाले और निहत्थे मुझे मार दें, तो वह मेरे लिए अधिक कल्याणकारी होगा।",
+    "english": "It would be better if the sons of Dhritarashtra, weapons in hand, should slay me in battle while I am unarmed and unresisting.",
+    "insight": "There is nobility in choosing death over moral compromise — but whether this is wisdom or despair is the Gita's opening question."
+  },
+  {
+    "chapter": 1,
+    "verse": 47,
+    "sanskrit": "एवमुक्त्वार्जुनः संख्ये रथोपस्थ उपाविशत् | विसृज्य सशरं चापं शोकसंविग्नमानसः ||",
+    "hindi": "इस प्रकार कहकर, युद्धभूमि में शोक से व्याकुल मन वाले अर्जुन ने धनुष-बाण छोड़ दिया और रथ पर बैठ गए।",
+    "english": "Having thus spoken, Arjuna, overwhelmed with sorrow, cast aside his bow and arrows and sat down in the chariot, his mind distressed with grief.",
+    "insight": "The Gita begins where all human journeys begin — in grief, confusion, and the inability to act without wisdom."
+  }
+]
